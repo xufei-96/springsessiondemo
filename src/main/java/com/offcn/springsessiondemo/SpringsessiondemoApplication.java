@@ -13,4 +13,8 @@ public class SpringsessiondemoApplication {
         System.out.println("创建第二个分支");
     }
 
+    public void fenzhi(){
+        System.out.println("这是分支一");
+    }
+
 }
